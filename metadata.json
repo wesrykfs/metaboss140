@@ -1,0 +1,41 @@
+{
+  "name": "Sorcery Inc #490",
+  "symbol": "SLUV",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Fbafybeicm5otgbsxikh6z75xrlbt2677nhmzdp2lhaefloa33vgfvuybg3e.ipfs.nftstorage.link%2F490.png%3Fext%3Dpng",
+  "attributes": [
+ {
+      "trait_type": "Background",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Skin Type",
+      "value": "SkeletonSkin"
+    },
+    {
+      "trait_type": "Body Type",
+      "value": "Necro"
+    },
+    {
+      "trait_type": "Eyes + Mouth",
+      "value": "Huh"
+    },
+    {
+      "trait_type": "Head Type",
+      "value": "Side Flip"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Necromancer"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
